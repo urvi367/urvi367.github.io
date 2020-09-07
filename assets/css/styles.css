@@ -524,6 +524,7 @@ blockquote {
 @media screen and (max-width: 768px){
   .home__img{
     padding:var(--mb-2) ;
+    width: 20%;
   }
 
   /* Place the timelime to the left */
