@@ -522,6 +522,10 @@ blockquote {
 /* ===== MEDIA QUERIES=====*/
 
 @media screen and (max-width: 768px){
+  .home__img{
+    padding:var(--mb-2) ;
+  }
+
   /* Place the timelime to the left */
   .timeline::after {
     left: 31px;
