@@ -234,6 +234,9 @@ blockquote {
   right: 0;
   bottom: 0;
   width: 295px;
+  margin-top: 15%;
+  padding: var(--mb-1)
+;
 }
 
 /*BUTTONS*/
@@ -602,7 +605,6 @@ blockquote {
   .home__img{
     width: 457px;
     bottom: 15%;
-    margin-top: 15%;
   }
 
   .about__container, .skills__container{
